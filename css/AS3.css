@@ -1,0 +1,22 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron {
+    font-family: sans-serif;
+    height: 60vh;
+    margin: 0px;
+}
+
+h5{font-family: sans-serif;
+    color:white;
+    line-height: 175%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+
+
